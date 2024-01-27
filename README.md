@@ -1,1 +1,4 @@
-# aron-th.github.io
+- 👋 Hi, I’m Arun Thapa.
+- 👀 I’m interested in web/app development, AI and ML.
+- 🌱 I’m currently learning web-development.
+- ⚡ Fun fact: ...
